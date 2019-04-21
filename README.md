@@ -7,3 +7,6 @@ GETTING STARTED:
 2.    Open folder in any IDE
 3.    Run Unit Tests
 4.    Run ScheduleAlgo 
+
+-    Refer detailed report --> Genetic Algorithm Report.pdf
+-    Output data in --> output.txt
