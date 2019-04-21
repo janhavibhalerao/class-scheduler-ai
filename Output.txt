@@ -1,0 +1,310 @@
+"C:\Program Files\Java\jdk1.8.0_191\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.5\lib\idea_rt.jar=59164:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.5\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;C:\Users\Janhavi\Desktop\GeneticProject\target\classes;C:\Users\Janhavi\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\Janhavi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar" ScheduleAlgo
+Generation No.1 Best fitness: -623.97
+Generation No.2 Best fitness: -558.84
+Generation No.3 Best fitness: -458.39
+Generation No.4 Best fitness: -391.23
+Generation No.5 Best fitness: -391.23
+Generation No.6 Best fitness: -391.23
+Generation No.7 Best fitness: -392.1
+Generation No.8 Best fitness: -392.1
+Generation No.9 Best fitness: -359.1
+Generation No.10 Best fitness: -325.81
+Generation No.11 Best fitness: -325.81
+Generation No.12 Best fitness: -325.81
+Generation No.13 Best fitness: -325.81
+Generation No.14 Best fitness: -324.65
+Generation No.15 Best fitness: -294.26
+Generation No.16 Best fitness: -294.26
+Generation No.17 Best fitness: -325.81
+Generation No.18 Best fitness: -325.81
+Generation No.19 Best fitness: -325.81
+Generation No.20 Best fitness: -259.81
+Generation No.21 Best fitness: -226.81
+Generation No.22 Best fitness: -226.81
+Generation No.23 Best fitness: -226.81
+Generation No.24 Best fitness: -259.81
+Generation No.25 Best fitness: -259.81
+Generation No.26 Best fitness: -259.81
+Generation No.27 Best fitness: -259.81
+Generation No.28 Best fitness: -291.94
+Generation No.29 Best fitness: -226.81
+Generation No.30 Best fitness: -227.1
+Generation No.31 Best fitness: -227.39
+Generation No.32 Best fitness: -258.94
+Generation No.33 Best fitness: -228.26
+Generation No.34 Best fitness: -227.1
+Generation No.35 Best fitness: -193.81
+Generation No.36 Best fitness: -160.23
+Generation No.37 Best fitness: -95.68
+Generation No.38 Best fitness: -95.97
+Generation No.39 Best fitness: -95.97
+Generation No.40 Best fitness: -95.97
+Generation No.41 Best fitness: -95.97
+Generation No.42 Best fitness: -95.39
+Generation No.43 Best fitness: -95.39
+Generation No.44 Best fitness: -62.1
+Generation No.45 Best fitness: -62.1
+Generation No.46 Best fitness: -62.1
+Generation No.47 Best fitness: -62.1
+Generation No.48 Best fitness: -62.39
+Generation No.49 Best fitness: -62.39
+Generation No.50 Best fitness: -62.39
+Generation No.51 Best fitness: -29.97
+Generation No.52 Best fitness: -29.97
+Generation No.53 Best fitness: -29.97
+Generation No.54 Best fitness: -29.97
+Generation No.55 Best fitness: -29.1
+Generation No.56 Best fitness: -29.1
+Generation No.57 Best fitness: -29.1
+Generation No.58 Best fitness: -28.81
+Generation No.59 Best fitness: -29.1
+Generation No.60 Best fitness: -29.1
+Generation No.61 Best fitness: -29.1
+Generation No.62 Best fitness: -29.1
+Generation No.63 Best fitness: -29.1
+Generation No.64 Best fitness: -28.81
+Generation No.65 Best fitness: -28.81
+Generation No.66 Best fitness: 3.61
+Generation No.67 Best fitness: 3.61
+Generation No.68 Best fitness: 3.61
+Generation No.69 Best fitness: 3.61
+Generation No.70 Best fitness: 3.9
+Generation No.71 Best fitness: 3.9
+Generation No.72 Best fitness: 4.19
+Generation No.73 Best fitness: 4.19
+Generation No.74 Best fitness: 4.19
+Generation No.75 Best fitness: 4.48
+Generation No.76 Best fitness: 5.06
+Generation No.77 Best fitness: 5.06
+Generation No.78 Best fitness: 5.06
+Generation No.79 Best fitness: 5.06
+Generation No.80 Best fitness: 5.06
+Generation No.81 Best fitness: 5.06
+Generation No.82 Best fitness: 5.06
+Generation No.83 Best fitness: 5.06
+Generation No.84 Best fitness: 5.06
+Generation No.85 Best fitness: 5.35
+Generation No.86 Best fitness: 5.35
+Generation No.87 Best fitness: 5.64
+Generation No.88 Best fitness: 5.64
+Generation No.89 Best fitness: 5.64
+Generation No.90 Best fitness: 5.64
+Generation No.91 Best fitness: 5.93
+Generation No.92 Best fitness: 5.93
+Generation No.93 Best fitness: 5.93
+Generation No.94 Best fitness: 5.93
+Generation No.95 Best fitness: 5.93
+Generation No.96 Best fitness: 5.93
+Generation No.97 Best fitness: 6.22
+Generation No.98 Best fitness: 6.22
+Generation No.99 Best fitness: 6.22
+Generation No.100 Best fitness: 6.22
+
+Solution found in 101 generations
+Final solution fitness: 6.22
+Clashes: 622
+CLASS 1:
+COURSE: Algorithm
+STUDENT GROUP: 1
+ROOM: A
+PROFESSOR: Vishal Chawla
+TIMESLOT: Wednesday 9:00 - 11:00
+*****************************************************************
+CLASS 2:
+COURSE: Cloud Computing
+STUDENT GROUP: 1
+ROOM: B
+PROFESSOR: Kal Bugrara
+TIMESLOT: Tuesday 9:00 - 11:00
+*****************************************************************
+CLASS 3:
+COURSE: Web Development
+STUDENT GROUP: 1
+ROOM: E
+PROFESSOR: Yusuf Ozbek
+TIMESLOT: Tuesday 9:00 - 11:00
+*****************************************************************
+CLASS 4:
+COURSE: Database
+STUDENT GROUP: 2
+ROOM: B
+PROFESSOR: Kal Bugrara
+TIMESLOT: Monday 9:00 - 11:00
+*****************************************************************
+CLASS 5:
+COURSE: Cloud Computing
+STUDENT GROUP: 2
+ROOM: B
+PROFESSOR: Amuthan
+TIMESLOT: Tuesday 13:00 - 15:00
+*****************************************************************
+CLASS 6:
+COURSE: Application Engineering
+STUDENT GROUP: 2
+ROOM: B
+PROFESSOR: Vishal Chawla
+TIMESLOT: Wednesday 11:00 - 13:00
+*****************************************************************
+CLASS 7:
+COURSE: Data Science
+STUDENT GROUP: 2
+ROOM: B
+PROFESSOR: Kal Bugrara
+TIMESLOT: Thursday 11:00 - 13:00
+*****************************************************************
+CLASS 8:
+COURSE: Cloud Computing
+STUDENT GROUP: 3
+ROOM: E
+PROFESSOR: Robin Hilyard
+TIMESLOT: Wednesday 9:00 - 11:00
+*****************************************************************
+CLASS 9:
+COURSE: Web Development
+STUDENT GROUP: 3
+ROOM: E
+PROFESSOR: Yusuf Ozbek
+TIMESLOT: Wednesday 13:00 - 15:00
+*****************************************************************
+CLASS 10:
+COURSE: Application Engineering
+STUDENT GROUP: 3
+ROOM: E
+PROFESSOR: Vishal Chawla
+TIMESLOT: Friday 11:00 - 13:00
+*****************************************************************
+CLASS 11:
+COURSE: Algorithm
+STUDENT GROUP: 4
+ROOM: D
+PROFESSOR: Robin Hilyard
+TIMESLOT: Monday 13:00 - 15:00
+*****************************************************************
+CLASS 12:
+COURSE: Web Development
+STUDENT GROUP: 4
+ROOM: D
+PROFESSOR: Yusuf Ozbek
+TIMESLOT: Friday 11:00 - 13:00
+*****************************************************************
+CLASS 13:
+COURSE: Business Intelligence
+STUDENT GROUP: 4
+ROOM: D
+PROFESSOR: Amuthan
+TIMESLOT: Tuesday 9:00 - 11:00
+*****************************************************************
+CLASS 14:
+COURSE: Database
+STUDENT GROUP: 5
+ROOM: E
+PROFESSOR: Yusuf Ozbek
+TIMESLOT: Tuesday 11:00 - 13:00
+*****************************************************************
+CLASS 15:
+COURSE: Cloud Computing
+STUDENT GROUP: 5
+ROOM: C
+PROFESSOR: Amuthan
+TIMESLOT: Monday 11:00 - 13:00
+*****************************************************************
+CLASS 16:
+COURSE: Application Engineering
+STUDENT GROUP: 5
+ROOM: D
+PROFESSOR: Vishal Chawla
+TIMESLOT: Friday 9:00 - 11:00
+*****************************************************************
+CLASS 17:
+COURSE: Algorithm
+STUDENT GROUP: 6
+ROOM: B
+PROFESSOR: Robin Hilyard
+TIMESLOT: Wednesday 13:00 - 15:00
+*****************************************************************
+CLASS 18:
+COURSE: Web Development
+STUDENT GROUP: 6
+ROOM: D
+PROFESSOR: Tejas Parikh
+TIMESLOT: Wednesday 9:00 - 11:00
+*****************************************************************
+CLASS 19:
+COURSE: Application Engineering
+STUDENT GROUP: 6
+ROOM: D
+PROFESSOR: Vishal Chawla
+TIMESLOT: Thursday 9:00 - 11:00
+*****************************************************************
+CLASS 20:
+COURSE: Algorithm
+STUDENT GROUP: 7
+ROOM: B
+PROFESSOR: Robin Hilyard
+TIMESLOT: Friday 13:00 - 15:00
+*****************************************************************
+CLASS 21:
+COURSE: Cloud Computing
+STUDENT GROUP: 7
+ROOM: D
+PROFESSOR: Kal Bugrara
+TIMESLOT: Wednesday 11:00 - 13:00
+*****************************************************************
+CLASS 22:
+COURSE: Database
+STUDENT GROUP: 8
+ROOM: C
+PROFESSOR: Amuthan
+TIMESLOT: Friday 13:00 - 15:00
+*****************************************************************
+CLASS 23:
+COURSE: Data Science
+STUDENT GROUP: 8
+ROOM: E
+PROFESSOR: Kal Bugrara
+TIMESLOT: Tuesday 13:00 - 15:00
+*****************************************************************
+CLASS 24:
+COURSE: Business Intelligence
+STUDENT GROUP: 8
+ROOM: E
+PROFESSOR: Tejas Parikh
+TIMESLOT: Thursday 11:00 - 13:00
+*****************************************************************
+CLASS 25:
+COURSE: Algorithm
+STUDENT GROUP: 9
+ROOM: B
+PROFESSOR: Kal Bugrara
+TIMESLOT: Friday 9:00 - 11:00
+*****************************************************************
+CLASS 26:
+COURSE: Data Science
+STUDENT GROUP: 9
+ROOM: B
+PROFESSOR: Tejas Parikh
+TIMESLOT: Tuesday 11:00 - 13:00
+*****************************************************************
+CLASS 27:
+COURSE: Cloud Computing
+STUDENT GROUP: 10
+ROOM: B
+PROFESSOR: Robin Hilyard
+TIMESLOT: Thursday 13:00 - 15:00
+*****************************************************************
+CLASS 28:
+COURSE: Web Development
+STUDENT GROUP: 10
+ROOM: D
+PROFESSOR: Vishal Chawla
+TIMESLOT: Thursday 13:00 - 15:00
+*****************************************************************
+CLASS 29:
+COURSE: Business Intelligence
+STUDENT GROUP: 10
+ROOM: B
+PROFESSOR: Tejas Parikh
+TIMESLOT: Thursday 9:00 - 11:00
+*****************************************************************
+
+Process finished with exit code 0
